@@ -23,9 +23,7 @@ Getting Started
 To run this project, download and unzip the following files:
 
 1) 201902-fordgobike-tripdata.csv.zip (Raw dataset)
-2) expl_plot_df.csv.zip (Clean dataset)
-3) ebike_use_eda.ipynb (EDA notebook)
-4) ebike_use_summary.ipynb (Summary notebook)
+2) ebike_use.ipynb (EDA notebook)
 
 Open the EDA notebook in Jupyter Notebook and run the code to parse, clean, and analyze the raw data.
 Open the Summary notebook in Jupyter Notebook and run the code to create explanatory visualizations of the data analyzed in the EDA notebook.
