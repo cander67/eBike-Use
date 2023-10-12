@@ -12,7 +12,7 @@ This project was completed using the following setup:
 - Jupyter notebook 6.5.4
 
 The following third-party Python libraries were used:
-- Numpy
+- NumPy
 - Pandas
 - Seaborn
 - Matplotlib
