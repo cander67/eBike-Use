@@ -1,21 +1,26 @@
 Analysis of eBike-Use
 =====================
 
-This project parses, cleans, and analyzes the Ford GoBike dataset from [Kaggle](https://www.kaggle.com/datasets/chirag02/ford-gobike-2019feb-tripdata). The current scope includes analysis and visualization of rider use patterns. This project was submitted as a course requirement for the Udacity Data Analyst Nanodegree program.
+This project parses, cleans, and analyzes the Ford GoBike dataset from [Kaggle](https://www.kaggle.com/datasets/chirag02/ford-gobike-2019feb-tripdata). The current scope includes analysis and visualization of rider use patterns.
 
 Pre-requisites
 ---------------------
 
-This project was completed using the following setup:
+Local development can be accomplished by creating a virtual environment using Python 3.11 and installing the necessary dependencies as described below.
 
+Install dependencies from the terminal using the following command: `pip install -r requirements.txt`
+
+OR
+
+Manually install the following:
 - Python 3.11
 - Jupyter notebook 6.5.4
 
 The following third-party Python libraries were used:
-- NumPy
-- Pandas
-- Seaborn
-- Matplotlib
+- NumPy 1.26.4
+- Pandas 2.2.1
+- Seaborn 0.13.2
+- Matplotlib 3.8.3
 
 Getting Started
 ---------------------
