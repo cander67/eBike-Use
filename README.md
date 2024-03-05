@@ -6,7 +6,7 @@ This project parses, cleans, and analyzes the Ford GoBike dataset from [Kaggle](
 Pre-requisites
 ---------------------
 
-Local development can be accomplished by creating a virtual environment using Python 3.11 and installing the necessary dependencies as described below.
+Local deployment can be accomplished by creating a virtual environment using Python 3.11 and installing the necessary dependencies as described below.
 
 Install dependencies from the terminal using the following command: `pip install -r requirements.txt`
 
