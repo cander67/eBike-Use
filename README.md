@@ -1,7 +1,7 @@
 Analysis of eBike-Use
 =====================
 
-This project parses, cleans, and analyzes the Ford GoBike dataset from [Kaggle](https://www.kaggle.com/datasets/chirag02/ford-gobike-2019feb-tripdata). The current scope includes analysis and visualization of rider use patterns.
+This project parses, cleans, and analyzes the Ford GoBike dataset from [Kaggle](https://www.kaggle.com/datasets/chirag02/ford-gobike-2019feb-tripdata). The current scope includes analysis and visualization of rider use patterns to understand peak use times and ride duration.
 
 Pre-requisites
 ---------------------
